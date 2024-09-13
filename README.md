@@ -1,4 +1,4 @@
-Node.js es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador, en el lado del servidor. Está basado en el motor V8 de Google Chrome (el motor que ejecuta JavaScript en el navegador), pero lo extiende para que puedas usar JavaScript para construir aplicaciones del lado del servidor, como servidores web, aplicaciones de tiempo real, herramientas de línea de comandos, APIs, entre otros.
+Node.js es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador, en el lado del servidor. Está basado en el motor V8 de Google Chrome (el motor que ejecuta JavaScript en el navegador), pero lo extiende para que puedas usar JavaScript para construir aplicaciones del lado del servidor, como servidores web, aplicaciones de tiempo real, herramientas de línea de comandos, APIs, entre otros. TIENE CONTENDIO DINAMICO
  
  
  POO, programacion orientada a objeto, un objeto es algo que tiene atribitos y metodos, osea caracterisiticas productos(por ej: productos, personas, paises) cosas que tienen metodos(ordenes, pedidos, envios) -> objeto
@@ -277,7 +277,7 @@ https://github.com/ASunart/DCA_PreParcial_1.git
 https://github.com/LeiderCalvo/DCA/blob/08_webComponentsWithData/public/src/data/dataCards.js
 https://github.com/pangar03/Repaso-quiz-1
 https://github.com/davidgarciamunozz/Arrays-One-Compiler
-
+https://github.com/Majorosas16/Preparcial/blob/master/README.md
 
 BUILD: PROCESA TODO SLOS ARCHIVOS Y LOS LISTOS EN EL SERVIDOR
 TEST: TESTEA SI HAY ERRORES
