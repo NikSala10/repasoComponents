@@ -254,3 +254,13 @@ Carpetas --> crear los nombres específicos de esa carpeta.
 
 Carpeta Public --> el servidor va a air a buscar para ejecutar
 SRC --> rutas
+
+
+
+Condicionales: Como if, else, else if, permiten ejecutar bloques de código según condiciones.
+Bucles: Como for, while, do...while, permiten repetir bloques de código varias veces.
+
+Arreglos (Arrays): Son estructuras de datos en las que puedes almacenar múltiples elementos en un solo objeto. Cada elemento del arreglo tiene un índice numérico. Se pueden utilizar para almacenar listas de datos.
+Funciones: Son bloques de código que pueden ejecutarse cuando se "invocan" o llaman. Las funciones pueden aceptar argumentos (datos de entrada) y devolver valores.
+
+En JavaScript (y en muchos otros lenguajes de programación), un objeto es una estructura que permite almacenar y organizar datos en forma de pares clave-valor. Cada clave es una propiedad o atributo del objeto, y el valor puede ser cualquier tipo de dato: números, cadenas, arreglos, funciones u otros objetos.
