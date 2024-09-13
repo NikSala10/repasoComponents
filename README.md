@@ -274,3 +274,7 @@ https://github.com/ASunart/DCA_PreParcial_1.git
 https://github.com/LeiderCalvo/DCA/blob/08_webComponentsWithData/public/src/data/dataCards.js
 https://github.com/pangar03/Repaso-quiz-1
 https://github.com/davidgarciamunozz/Arrays-One-Compiler
+
+
+BUILD: PROCESA TODO SLOS ARCHIVOS Y LOS LISTOS EN EL SERVIDOR
+TEST: TESTEA SI HAY ERRORES
