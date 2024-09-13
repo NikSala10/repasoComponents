@@ -1,0 +1,2 @@
+// es la comunicación entre el hijo, el componente y el abuelo. se importa al componente. El abuelo tiene que conocer donde esta el hijo. Entre el card y el abuelo, tiene que importar y exportarlo.> padre
+export  { default as characterCard} from './characterCard.js'
