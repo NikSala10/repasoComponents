@@ -1,3 +1,6 @@
+Set-ExecutionPolicy -Scope CurrentUser unrestricted
+
+
 Node.js es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador, en el lado del servidor. Está basado en el motor V8 de Google Chrome (el motor que ejecuta JavaScript en el navegador), pero lo extiende para que puedas usar JavaScript para construir aplicaciones del lado del servidor, como servidores web, aplicaciones de tiempo real, herramientas de línea de comandos, APIs, entre otros. TIENE CONTENDIO DINAMICO
  
 
