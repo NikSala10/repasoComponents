@@ -64,20 +64,6 @@ tipos de datos:
 estructuras de control IF, WHILE, FOR
 If -> si cumples esta condidiocn, sucede tal cosa
 
-hay distintos tipos de ramificaciones en cuanot a estructura de control: 
--condicionales
--bucles
--exepcion
-
-literales:
--numero
--cadenas
--booleans
--arrays
--object
--function
--plantilla
--null y undefined
 
 
 - el consolo log, e suna funcion, funcionalidad asignada
