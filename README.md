@@ -245,6 +245,7 @@ https://github.com/LeiderCalvo/DCA/blob/08_webComponentsWithData/public/src/data
 https://github.com/pangar03/Repaso-quiz-1
 https://github.com/davidgarciamunozz/Arrays-One-Compiler
 https://github.com/Majorosas16/Preparcial/blob/master/README.md
+https://github.com/pangar03/Repaso-quiz-1
 
 BUILD: PROCESA TODO SLOS ARCHIVOS Y LOS LISTOS EN EL SERVIDOR
 TEST: TESTEA SI HAY ERRORES
