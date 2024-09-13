@@ -1,25 +1,6 @@
 Node.js es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador, en el lado del servidor. Está basado en el motor V8 de Google Chrome (el motor que ejecuta JavaScript en el navegador), pero lo extiende para que puedas usar JavaScript para construir aplicaciones del lado del servidor, como servidores web, aplicaciones de tiempo real, herramientas de línea de comandos, APIs, entre otros. TIENE CONTENDIO DINAMICO
  
- 
- POO, programacion orientada a objeto, un objeto es algo que tiene atribitos y metodos, osea caracterisiticas productos(por ej: productos, personas, paises) cosas que tienen metodos(ordenes, pedidos, envios) -> objeto
-- una orden tiene caracterisiticas: fecha, mesa, sillas
-- clase: cada, conjunto de onjetos similares, que constta de medtods y datos, cosa que tenga carcatrisiticas, idenfitifcarlo en problemas, (puede tener metodos o atributos, o los dos) algo que tenga carcteristicas se puede describir como clase. 
-- ojetos tienen uncionalidades, funciones del objeto y de las clase, tienen datods que son comunes -> metodos
-- ej: una clas euede ser libros: ese libro tiene cosas similares: atributos -> nombre, autor, pg q tine, editorial. atributos son datos que tienen los libros como tal
-de esa clase, s epuede  rear objetos: -> obejtos son: el articulo, un libro Objeto -> 
-- la clase tiene atributos -> nombre a tal
-- de la clase se puede derivar al objeto
-- clase- metodos, atributos o constructor
-- clase prodcutos-> puede tener objetos como: -> helados, paletas, chcocnos -> esos objetos pueden tener cantidad, ide, precio, marca, nombre, soto, proveedor
-- la clase se puede dividir en muchas cosas: helados o cosas frias
-- una clase pued etener una herencia -> prodcutos seria el padre y la clase helados es el hijo -> la herencia es: 
-- los atributos pueden tener un metodos -> printiar el producto, imprimir el producto
-metodo eliminar, cambiar la cantidad, el id
-- esos metoods proviene de la clase productos -> una clase hija q venga de la clase productos, los helados van a tener las miosmos atributos q la clase productos, y esas clase puede tener mas atrbutos, ellos heredan los atributos de la clase padre, pueden heredar loa syributos a loshelados
-si se tiene mas cosas
-- la clase helados tiene sus proios atributos: caracterisiticas de los helados ->(sabor, tamaño, tipo) pero tambn tiene los atributos de la clase q heredaorn
-- la clase mecato -> (subclase de la clase) -> atributos -> (tipo, peso)
-- las clases hijas pueden tener sus propios atributos y metodos.
+
 
 - constructor: es un metodo del cual se pueden cerar ese objeto, sirve para crear objeto, depoende de la clase cmsotrcutor para crear el obejto (mew onjeto)
 
