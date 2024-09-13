@@ -1,3 +1,6 @@
+Node.js es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador, en el lado del servidor. Está basado en el motor V8 de Google Chrome (el motor que ejecuta JavaScript en el navegador), pero lo extiende para que puedas usar JavaScript para construir aplicaciones del lado del servidor, como servidores web, aplicaciones de tiempo real, herramientas de línea de comandos, APIs, entre otros.
+ 
+ 
  POO, programacion orientada a objeto, un objeto es algo que tiene atribitos y metodos, osea caracterisiticas productos(por ej: productos, personas, paises) cosas que tienen metodos(ordenes, pedidos, envios) -> objeto
 - una orden tiene caracterisiticas: fecha, mesa, sillas
 - clase: cada, conjunto de onjetos similares, que constta de medtods y datos, cosa que tenga carcatrisiticas, idenfitifcarlo en problemas, (puede tener metodos o atributos, o los dos) algo que tenga carcteristicas se puede describir como clase. 
