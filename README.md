@@ -264,3 +264,13 @@ Arreglos (Arrays): Son estructuras de datos en las que puedes almacenar múltipl
 Funciones: Son bloques de código que pueden ejecutarse cuando se "invocan" o llaman. Las funciones pueden aceptar argumentos (datos de entrada) y devolver valores.
 
 En JavaScript (y en muchos otros lenguajes de programación), un objeto es una estructura que permite almacenar y organizar datos en forma de pares clave-valor. Cada clave es una propiedad o atributo del objeto, y el valor puede ser cualquier tipo de dato: números, cadenas, arreglos, funciones u otros objetos.
+
+
+
+
+
+REPOS: 
+https://github.com/ASunart/DCA_PreParcial_1.git
+https://github.com/LeiderCalvo/DCA/blob/08_webComponentsWithData/public/src/data/dataCards.js
+https://github.com/pangar03/Repaso-quiz-1
+https://github.com/davidgarciamunozz/Arrays-One-Compiler
